@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Multi-Tab Text Editor</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <div class="parent-container">
+      <div class="title-bar">
+        <div class="action-buttons">
+          <button class="btn" id="close"></button>
+          <button class="btn" id="minimize"></button>
+          <button class="btn maximize restore" id="max-res"></button>
+        </div>
+        <div class="tabs">
+          <div class="tab-container">
+            <div class="tab tab-0 active" id="tab-0">
+              New Tab<span class="close-tab">×</span>
+            </div>
+          </div>
+          <div class="create-new-tab-container">
+            <button class="create-new-tab">+</button>
+          </div>
+        </div>
+      </div>
+      <span class="center idle"> PLEASE SELECT A TAB </span>
+      <span class="center notice">-Double Click Tab Name to rename</span>
+      <textarea class="textarea text-tab-0" id="textarea-tab-0"></textarea>
+    </div>
+  </body>
+</html>
