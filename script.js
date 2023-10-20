@@ -148,4 +148,4 @@ tabContainer.addEventListener('click', (e) => {
 setTimeout(() => {
   //   document.querySelector('.notice').classList.add('hidden');
   document.querySelector('.notice').remove();
-}, 1500);
+}, 1000);
