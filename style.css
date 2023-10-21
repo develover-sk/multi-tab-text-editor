@@ -212,7 +212,7 @@ body {
 
 @media screen and (max-width: 720px) {
   .close-tab {
-    right: -30px;
+    right: -18px;
   }
   .tabs {
     /* width: 80vw; */
