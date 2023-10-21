@@ -54,7 +54,8 @@ body {
   display: flex;
   flex-direction: row;
   overflow-x: auto;
-  padding-right: 50px;
+  /* padding-right: 50px; */
+  margin-right: 45px;
 }
 
 .tabs {
