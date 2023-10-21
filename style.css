@@ -200,6 +200,7 @@ body {
 }
 .idle {
   font-size: 5em;
+  text-align: center;
 }
 .notice {
   color: #27c93f;
