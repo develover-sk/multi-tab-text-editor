@@ -1,6 +1,6 @@
 # MULTI-TAB TEXT EDITOR
 
-{Screenshot}['./screenshot.png']
+![](./Screenshot.png)
 
 - Functionality to add as many tabs as you want
 - Add text in any tab and switch seamlessly
