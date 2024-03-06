@@ -10,4 +10,4 @@
 
 ## How to preview?
 
-- Click on the link https://develover-sk.github.io/multi-tab-text-editor/ to preview.
+- Click on the link https://softwaredev-sk.github.io/multi-tab-text-editor/ to preview.
